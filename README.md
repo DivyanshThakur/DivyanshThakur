@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack and Android Development
 - 🌱 I’m currently a FULL Stack Developer at Techlious Network
 - 📫 How to reach me ? 
-- My Website (BETA) = https://portfolio-divyansh.netlify.app/
+- My Website (dev) = https://portfolio-divyansh.netlify.app/
 - Contact- divyansh2140@gmail.com
 - Linkedin- https://www.linkedin.com/in/divyansh-s-thakur/
 
