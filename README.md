@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 I am a Full-stack Mobile and Web Developer. A fast learner and a positive thinker who is always ready to learn new technologies and develop useful and maintainable applications. I like to develop websites which enhances user experience along with well maintained backend server with optimized code performance. :wink:
 
 - 📫 How to reach me ? 
-- My Website (dev) = https://portfolio-divyansh.netlify.app/
+- My Website = https://portfolio-divyansh.netlify.app/
 - Contact- divyansh2140@gmail.com
 - Linkedin- https://www.linkedin.com/in/divyansh-s-thakur/
 
