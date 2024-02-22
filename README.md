@@ -17,7 +17,7 @@ I am a Full-stack Mobile and Web Developer. A fast learner and a positive thinke
 - Contact- divyansh2140@gmail.com
 - Linkedin- https://www.linkedin.com/in/divyansh-s-thakur/
 
-![Profile views](https://gpvc.arturio.dev/DivyanshThakur)
+![](https://komarev.com/ghpvc/?username=DivyanshThakur&color=blue&base=10001)
 
 
 ---
